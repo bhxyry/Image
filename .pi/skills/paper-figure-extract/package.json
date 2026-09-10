@@ -1,0 +1,11 @@
+{
+  "name": "paper-figure-extract",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Extract figures and tables from a paper PDF as cropped PNGs.",
+  "dependencies": {
+    "mupdf": "^1.28.1",
+    "pngjs": "^7.0.0"
+  }
+}
